@@ -1,0 +1,6 @@
+:github: https://github.com/wilsonrf/builder-amazonlinux-al2023
+:registry: ghcr.io/wilsonrf/builder-amazonlinux-al2023
+
+= Amazon Linux 2023 builder
+
+link:{registry}[{registry}]
